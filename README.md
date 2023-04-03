@@ -1,6 +1,6 @@
 # vietnam-app
 
-This template should help get you started developing with Vue 3 in Vite.
+This app was inspired by classical films and do not mean to offend anyone.I used to work with VueJS,maybe functions will be added soon.
 
 ## Recommended IDE Setup
 
